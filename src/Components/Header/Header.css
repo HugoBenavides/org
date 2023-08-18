@@ -1,0 +1,33 @@
+.header{
+    background-color: #6278F7;
+    text-align: center;
+}
+
+.header img{
+    max-width: 80vw;
+}
+
+.header ul{
+    display: flex;
+    width: 75vw;
+    margin-left: 20vw;
+    padding: 20px;
+    justify-content: space-around;
+    list-style: none;
+}
+
+.header>ul>li>a{
+    text-decoration: none;
+    color: white;
+    font-weight: 700;
+    font-size: 1.2em;
+}
+
+.header>ul>li>a:hover{
+    text-decoration: none;
+    color: aquamarine;
+    font-weight: 700;
+    font-size: 1.2em;
+}
+
+

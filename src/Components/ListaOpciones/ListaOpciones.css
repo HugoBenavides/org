@@ -1,0 +1,53 @@
+.equipos label{
+    display: block;
+    color: #212121;
+    font-family: Montserrat;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    margin-left: 25px;
+    margin-bottom: 8px;
+
+    
+}
+
+.equipos select{
+
+    width: 510px;
+    height: 80px;
+    background-color: #fff;
+
+    color: #444;
+    font-family: Montserrat;;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+
+    border: none;
+    margin-left: 25px;
+    box-shadow: 10px 10px 30px 0px rgba(0, 0, 0, 0.2);
+
+}
+
+
+.equipos option{
+    color: #444;
+    font-family: Montserrat;;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+
+    width: 930px;
+    height: 80px;
+    border: none;
+    background: #FFF;
+    box-shadow: 10px 10px 30px 0px rgba(0, 0, 0, 0.2);
+    border-radius: 5px;
+    padding-left: 30px;
+
+    border: none;
+}
+

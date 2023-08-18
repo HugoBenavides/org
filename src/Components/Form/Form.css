@@ -1,0 +1,104 @@
+.formulario{
+    display: flex;
+    justify-content: center;
+    background-color: #f7f7f7;
+    flex-wrap: wrap;
+    margin: 80px 50px;
+
+    gap: 20px;
+}
+
+.form *{
+    display: block;
+}   
+
+.form{
+    width: 60.5%;
+    border-radius: 20px;
+    background-color: #f7f7f7;
+    box-shadow: 7px 7px 15px 0px rgba(0, 0, 0, 15%);
+    font-family: 'Montserrat', sans-serif;
+}
+
+.form h2{
+    font-family: 'Prata', serif;
+    font-weight: 400;
+    font-size: 32px;
+    color: #212121;
+}
+
+.form label{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 18px;
+    font-weight: 600;
+    margin-left: 260px;
+    margin-top: 17px;
+}
+
+.nombre, .puesto, .foto {
+    width: 930px;
+    height: 80px;
+    margin-top: 17px;
+    margin-left: 260px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    color: #212121;
+    border: none;
+    padding: 0px 20px;
+    outline-color: #6278F7;
+    border-radius: 3px;
+}
+
+.equipo__select{
+    width: 930px;
+    height: 80px;
+    margin-top: 17px;
+    margin-left: 260px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    color: #212121;
+    border: none;
+}
+
+.submit{
+    width: 167px;
+    height: 80px;
+    border-radius: 10px;
+    background-color: #6278F7;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    font-size: 20px;
+    text-align: center;
+    color: #FFFFFF;
+    margin-top: 17px;
+    margin-left: 260px;
+    margin-bottom: 22px;
+}
+
+.formulario{
+    display: flex;
+    justify-content: center;
+    margin: 80px 0 ;
+}
+
+
+.formulario form{
+    background-color: #f6f6f6;
+    border-radius: 20px;
+    box-shadow: 7px 7px 15px 0px rgba(0, 0, 0, .3);
+    padding: 8px 100px;
+    flex:  1;
+}
+
+.formulario h2{
+    color: #212121;
+    font-family: Prata;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-left: 22px;
+}
+

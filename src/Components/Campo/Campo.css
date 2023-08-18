@@ -1,0 +1,41 @@
+.campo{
+    margin: 24px;
+    font-family: 'Montserrat';
+}
+
+.campo label{
+    color: #212121;
+    font-family: Montserrat;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    display: block;
+    margin-bottom: 8px;
+}
+
+.campo input{
+    color: #212121;
+    font-family: Montserrat;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+
+    width: 510px;
+    height: 80px;
+    border: none;
+    background: #FFF;
+    box-shadow: 10px 10px 30px 0px rgba(0, 0, 0, 0.2);
+    border-radius: 5px;
+    padding-left: 30px;
+    outline-color: #6278F7; ;
+    box-sizing: border-box;
+}
+
+.campo-color input{ 
+    height: 40px;
+    width: 200px;
+    padding: 5px 20px;
+    
+}
